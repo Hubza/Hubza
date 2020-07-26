@@ -1,5 +1,3 @@
 <div align="center">
-	<br>
-	<img src="header.svg" width="800" height="400">
-	<br>
+	<img src="https://raw.githubusercontent.com/Hubza/Hubza/master/header.svg" width="800" height="400">
 </div>
