@@ -4,3 +4,4 @@ Check out my website at www.hubza.co.uk
 <br>
 
 [![Hubza's github stats](https://github-readme-stats.vercel.app/api?username=Hubza)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Hubza)](https://github.com/LordDashMe/github-contribution-stats/)
